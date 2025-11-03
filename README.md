@@ -13,17 +13,17 @@ reservas del servicio, etc
 ### Archivos y directorios:
 
 - **`data.py`**: Contiene datos exactos que se utilizan en las pruebas.
--**`locators.py`**: Contiene los localizadores de cada uno de los elementos de la página utilizados en la presente prueba.
--**`helpers.py`**: Contiene un código que devuelve un número de confirmación de teléfono y lo devuelve como un string.
--**`methods.py`**: Contiene los métodos utilizados en las pruebas.
--**`test_main.py`**: Contiene la lista de comprobación para cada uno de las pruebas.
+- **`locators.py`**: Contiene los localizadores de cada uno de los elementos de la página utilizados en la presente prueba.
+- **`helpers.py`**: Contiene un código que devuelve un número de confirmación de teléfono y lo devuelve como un string.
+- **`methods.py`**: Contiene los métodos utilizados en las pruebas.
+- **`test_main.py`**: Contiene la lista de comprobación para cada uno de las pruebas.
 
 ## Tecnologías Utilizadas
 
--**`Python`**: Es un lenguaje de programación principal del proyecto.
--**`Pytest`**: Entorno de pruebas utilizado para automatizar y gestionar las pruebas.
--**`Selenium`**: Es una herramienta para simular la interacción del usuario con la pagina web de Urban Routes.
--**`Devtools`**: Utilizado para identificar los localizadores desde Chrome.
+- **`Python`**: Es un lenguaje de programación principal del proyecto.
+- **`Pytest`**: Entorno de pruebas utilizado para automatizar y gestionar las pruebas.
+- **`Selenium`**: Es una herramienta para simular la interacción del usuario con la pagina web de Urban Routes.
+- **`Devtools`**: Utilizado para identificar los localizadores desde Chrome.
 
 ## Ejecución de pruebas
 
